@@ -7,4 +7,4 @@
 ## 작업기간
 2020.06.12 ~ 진행중
 # 메인화면
-![avenir메인화면](./Avenir/avenir.png)
+![avenir메인화면](./public/img/avenir.png)
